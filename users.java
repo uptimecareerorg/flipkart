@@ -1,1 +1,2 @@
-it contains user info related to project
+it contains users info related to project and this is java project only
+Thanks
